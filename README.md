@@ -22,3 +22,7 @@ If you did everything correctly, your folder should look like this:
 2 - FFVII OST - The Bombing Misssion.wav
 
 100 - Undertale OST - MEGALOVANIA.FLAC
+
+# What you'll need to run this:
+- Python 3
+- Mutagen
