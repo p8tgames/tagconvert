@@ -56,6 +56,3 @@ def oeufstart(filedir, dilenr, direc):
         tags.save(filenamenow)
         os.rename(filenamenow, direc + ded2[2])
 start()
-
-
-#C:/Users/ptgms/Music/ff
